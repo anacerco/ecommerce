@@ -1,0 +1,26 @@
+#root {
+  max-width: 1280px;
+  margin: auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+input {
+  padding: 0.5rem; 
+  width: 250px; 
+  margin: 0.5rem 0; 
+  border: 1px solid #ccc; 
+  border-radius: 4px; 
+  box-sizing: border-box;
+  text-align: left;
+
+}
+div {
+  text-align: left;
+  width: 250px; 
+  margin: 0 auto; 
+}
+h1 {
+  text-align: center;
+  width: 80%; 
+}
